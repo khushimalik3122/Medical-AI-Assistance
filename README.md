@@ -1,1 +1,1 @@
-# ai-assisstance-doctor-
+# Medical-AI-Assistance
