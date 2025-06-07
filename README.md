@@ -3,6 +3,9 @@
 A specialized language model fine-tuned on medical reasoning data to provide accurate and explainable clinical answers using **Chain-of-Thought** prompts.
 
 ---
+🔗 Download weights: [Hugging Face Model Repo](https://huggingface.co/khushiMalik3122/Medical_Ai_Assistance)
+
+---
 
 ## 📦 Model Details
 
